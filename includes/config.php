@@ -1,10 +1,10 @@
 <?php
 
     //database configuration
-    $host       = "sql210.ezyro.com";
-    $user       = "ezyro_29491373";
-    $pass       = "d2269n4jybdgyvq";
-    $database   = "ezyro_29491373_1";
+    $host       = "sql4.freemysqlhosting.net";
+    $user       = "sql4433270";
+    $pass       = "NHLHjTtbh4";
+    $database   = "sql4433270";
 
     $connect = new mysqli($host, $user, $pass, $database);
 
